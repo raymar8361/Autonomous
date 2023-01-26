@@ -25,6 +25,7 @@ public class GG {
     private DcMotor motorActuatorRight;
     private DcMotor motorActuatorBottom;
     private Servo ralle;
+    private ElapsedTime counter = new ElapsedTime();
 
     public void GG()
     {
