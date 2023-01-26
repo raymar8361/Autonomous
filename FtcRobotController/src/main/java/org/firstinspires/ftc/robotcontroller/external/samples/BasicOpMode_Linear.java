@@ -31,7 +31,7 @@ public class GG {
     {
         double power1 = 1;
         double power2 = -1;
-        double count = 0;
+        // double count = 0;
 
 
         if (count < 10) {
